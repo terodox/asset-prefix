@@ -1,6 +1,12 @@
-# Demo pages
+## Repo uses asset prefix
 
-- /pillars - show the difference between static import of image vs referencing image vs remote url
+This repo is relying on assets produced from this repo: https://github.com/terodox/base-path-remote-url hosted at this url: https://main.d2bvnrgx977ork.amplifyapp.com
+
+This repo is a straight copy of the base-path-remote-url repo which is what allows all of the assets to work appropriately
+
+## Demo pages
+
+- /andy-base-path/pillars - show the difference between static import of image vs referencing image vs remote url
 
 ## Base path
 
