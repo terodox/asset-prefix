@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/andy-base-path',
+  assetPrefix: 'https://main.d2bvnrgx977ork.amplifyapp.com',
   // assetPrefix: 'http://andy.test/asset-prefix',
   // assetPrefix: '/some-asset-prefix',
   reactStrictMode: true,
