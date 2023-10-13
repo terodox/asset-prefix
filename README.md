@@ -1,8 +1,6 @@
 ## Repo uses asset prefix
 
-This repo is relying on assets produced from this repo: https://github.com/terodox/base-path-remote-url hosted at this url: https://main.d2bvnrgx977ork.amplifyapp.com
-
-This repo is a straight copy of the base-path-remote-url repo which is what allows all of the assets to work appropriately
+This repo is a self referential setup. Two apps are deployed from this repo - one acts as the remote asset prefix location, the other as the consumer.
 
 ## Demo pages
 
