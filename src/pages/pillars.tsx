@@ -25,7 +25,7 @@ export default function Home() {
         <figure>
           <figcaption>Using path</figcaption>
           <Image
-            src="/andy-base-path/pillars-of-creation.png"
+            src="/pillars-of-creation.png"
             alt="The pillars of creation"
             height={300}
             width={900}
@@ -47,14 +47,6 @@ export default function Home() {
             alt="Unsplash"
             height={300}
             width={900}
-          ></Image>
-        </figure>
-        <figure>
-          <figcaption>BIG AVIF</figcaption>
-          <Image
-            src="https://skylark-doc.s3.ca-central-1.amazonaws.com/profile/1694153026653577.jpg"
-            alt="Big Avif"
-            width={1920}
           ></Image>
         </figure>
       </main>
